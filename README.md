@@ -3,6 +3,7 @@
 * Free Data science e-books [here](https://sofiyamujawar.wordpress.com/2020/09/15/free-data-science-ebooks/)
 * Data Science cheat sheet [here](https://github.com/taruntiwarihp/Data-Science-Cheatsheets)
 * Google AI [here](https://ai.google/education/)
+* Machine Learning Kit [here](https://developers.google.com/ml-kit)
 
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_189_Kaggle_logo_logos_4373210.png'>](https://www.kaggle.com/taruntiwarihp)
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_linkedin_834713.png'>](https://www.linkedin.com/in/tarun-tiwari-3170a8120/)
